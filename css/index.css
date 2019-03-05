@@ -1,0 +1,90 @@
+html, body {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif, "宋体";
+}
+#Logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+.block {
+    display: inline-block;
+    vertical-align: middle;
+}
+#LogoPIC {
+    background: url(../image/cat.png);
+    background-repeat: no-repeat;
+    background-size: 51px auto;
+    width: 50px;
+    height: 51px;
+}
+#LogoCI {
+    color:red;
+}
+#LogoCC {
+    color:green;
+}
+#TitleC {
+    width:20px;
+    display:inline-block;
+}
+#Protected {
+    margin: 0px 0px;
+    width: 100%;
+    height: 100%;
+}
+#MainForm {
+    margin: 0px auto;
+    max-width: 600px;
+    width: 80%;
+    height: 485px;
+    text-align:center;
+}
+#SearchWord {
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid #c8c8c8;
+    text-indent: 0.5em;
+    height: 35px;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    padding: 1px;
+    box-sizing: border-box;
+}
+#SearchButton {
+    cursor: pointer;
+}
+#TopSpace {
+    width: 1%;
+    height: 150px;
+    display: inline-block;
+}
+.button {
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #202020;
+    border-radius: 2px;
+    height: 33px;
+    width: 120px;
+    border: 1px solid #101010;
+    color: #ffffff;
+    background-position: -288px -128px;
+}
+.space {
+    width: 1%;
+    display: inline-block;
+    box-sizing: border-box;
+}

@@ -14,11 +14,11 @@ html, body {
     vertical-align: middle;
 }
 #LogoPIC {
-    background: url(../image/cat.png);
+    background: url(../image/logo.png);
     background-repeat: no-repeat;
-    background-size: 51px auto;
-    width: 50px;
-    height: 51px;
+    background-size: 30px auto;
+    width: 30px;
+    height: 30px;
 }
 #LogoCI {
     color:red;

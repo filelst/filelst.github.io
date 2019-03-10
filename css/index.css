@@ -13,13 +13,6 @@ html, body {
     display: inline-block;
     vertical-align: middle;
 }
-#LogoPIC {
-    background: url(../image/logo.png);
-    background-repeat: no-repeat;
-    background-size: 30px auto;
-    width: 30px;
-    height: 30px;
-}
 #LogoCI {
     color:red;
 }
